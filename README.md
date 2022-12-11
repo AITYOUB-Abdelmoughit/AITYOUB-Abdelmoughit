@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AITYOUB-Abdelmoughit
-- 👀 I’m interested in ... data science
+- 👀 I’m interested in ... data engineering !
 - 🌱 I’m currently learning ... java programming language
 - 💞️ I’m looking to collaborate on ... some data science project
 - 📫 How to reach me ... ; by contacting me on github or dm me on my gmail: abdelmoughit.aityoub@gmail.com
